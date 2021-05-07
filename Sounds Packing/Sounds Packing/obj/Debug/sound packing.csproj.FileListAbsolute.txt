@@ -1,0 +1,160 @@
+C:\Users\Ahmed Sharawy\Desktop\sound packing\sound packing\bin\Debug\sound packing.exe.config
+C:\Users\Ahmed Sharawy\Desktop\sound packing\sound packing\bin\Debug\sound packing.exe
+C:\Users\Ahmed Sharawy\Desktop\sound packing\sound packing\bin\Debug\sound packing.pdb
+C:\Users\Ahmed Sharawy\Desktop\sound packing\sound packing\bin\Debug\NAudio.dll
+C:\Users\Ahmed Sharawy\Desktop\sound packing\sound packing\bin\Debug\NAudio.xml
+C:\Users\Ahmed Sharawy\Desktop\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+C:\Users\Ahmed Sharawy\Desktop\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+C:\Users\Ahmed Sharawy\Desktop\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+C:\Users\Ahmed Sharawy\Desktop\sound packing\sound packing\obj\Debug\sound packing.exe
+C:\Users\Ahmed Sharawy\Desktop\sound packing\sound packing\obj\Debug\sound packing.pdb
+E:\khaled said\STUDY\Third Year\Semester 1\Algorithms Analysis and Design\sound packing\sound packing\bin\Debug\sound packing.exe.config
+E:\khaled said\STUDY\Third Year\Semester 1\Algorithms Analysis and Design\sound packing\sound packing\obj\Debug\sound packing.exe
+E:\khaled said\STUDY\Third Year\Semester 1\Algorithms Analysis and Design\sound packing\sound packing\obj\Debug\sound packing.pdb
+E:\khaled said\STUDY\Third Year\Semester 1\Algorithms Analysis and Design\sound packing\sound packing\bin\Debug\sound packing.exe
+E:\khaled said\STUDY\Third Year\Semester 1\Algorithms Analysis and Design\sound packing\sound packing\bin\Debug\sound packing.pdb
+E:\khaled said\STUDY\Third Year\Semester 1\Algorithms Analysis and Design\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+E:\khaled said\STUDY\Third Year\Semester 1\Algorithms Analysis and Design\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+E:\khaled said\STUDY\Third Year\Semester 1\Algorithms Analysis and Design\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+E:\khaled said\STUDY\Third Year\Semester 1\Algorithms Analysis and Design\sound packing\sound packing\obj\Debug\sound packing.csprojResolveAssemblyReference.cache
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\sound-packing-adding-to-khaled-part\sound packing\sound packing\bin\Debug\sound packing.exe.config
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound packing.exe
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound packing.pdb
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound packing\sound packing\bin\Debug\sound packing.exe.config
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound packing.exe
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound packing.pdb
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound packing\sound packing\bin\Debug\sound packing.exe
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound packing\sound packing\bin\Debug\sound packing.pdb
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound packing.csprojResolveAssemblyReference.cache
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+D:\Faculty\year 3\Algorithms Analysis and Design\sound-packing-adding-to-khaled-part\sound packing\sound packing\bin\Debug\sound packing.exe.config
+D:\Faculty\year 3\Algorithms Analysis and Design\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound packing.exe
+D:\Faculty\year 3\Algorithms Analysis and Design\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound packing.pdb
+C:\Users\Ahmed Sharawy\Desktop\sound-packing-adding-to-khaled-part\sound packing\sound packing\bin\Debug\sound packing.exe.config
+C:\Users\Ahmed Sharawy\Desktop\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound packing.exe
+C:\Users\Ahmed Sharawy\Desktop\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound packing.pdb
+C:\Users\Ahmed Sharawy\Desktop\sound-packing-adding-to-khaled-part\sound packing\sound packing\bin\Debug\sound packing.exe
+C:\Users\Ahmed Sharawy\Desktop\sound-packing-adding-to-khaled-part\sound packing\sound packing\bin\Debug\sound packing.pdb
+C:\Users\Ahmed Sharawy\Desktop\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+C:\Users\Ahmed Sharawy\Desktop\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+C:\Users\Ahmed Sharawy\Desktop\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound-packing-adding-to-khaled-part\sound packing\sound packing\bin\Debug\sound packing.exe.config
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound packing.exe
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound packing.pdb
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound-packing-adding-to-khaled-part\sound packing\sound packing\bin\Debug\sound packing.exe
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound-packing-adding-to-khaled-part\sound packing\sound packing\bin\Debug\sound packing.pdb
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound packing.csprojResolveAssemblyReference.cache
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\sound-packing-adding-to-khaled-part\sound-packing-adding-to-khaled-part\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe.config
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.exe
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.pdb
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.pdb
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csprojResolveAssemblyReference.cache
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+D:\Faculty\year 3\Algorithms Analysis and Design\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe.config
+D:\Faculty\year 3\Algorithms Analysis and Design\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.exe
+D:\Faculty\year 3\Algorithms Analysis and Design\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.pdb
+D:\Faculty\year 3\Algorithms Analysis and Design\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe
+D:\Faculty\year 3\Algorithms Analysis and Design\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.pdb
+D:\Faculty\year 3\Algorithms Analysis and Design\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+D:\Faculty\year 3\Algorithms Analysis and Design\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+D:\Faculty\year 3\Algorithms Analysis and Design\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+D:\Faculty\year 3\Algorithms Analysis and Design\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Sharawy\Desktop\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe.config
+C:\Users\Ahmed Sharawy\Desktop\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.exe
+C:\Users\Ahmed Sharawy\Desktop\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.pdb
+C:\Users\Ahmed Sharawy\Desktop\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe
+C:\Users\Ahmed Sharawy\Desktop\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.pdb
+C:\Users\Ahmed Sharawy\Desktop\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+C:\Users\Ahmed Sharawy\Desktop\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+C:\Users\Ahmed Sharawy\Desktop\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe.config
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.exe
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.pdb
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.pdb
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csprojResolveAssemblyReference.cache
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe.config
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.exe
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.pdb
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.pdb
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+F:\New folder\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe.config
+F:\New folder\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.exe
+F:\New folder\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.pdb
+F:\New folder\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe
+F:\New folder\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.pdb
+F:\New folder\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+F:\New folder\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+F:\New folder\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+C:\Users\Ahmed Sharawy\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe.config
+C:\Users\Ahmed Sharawy\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.exe
+C:\Users\Ahmed Sharawy\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.pdb
+C:\Users\Ahmed Sharawy\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe
+C:\Users\Ahmed Sharawy\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.pdb
+C:\Users\Ahmed Sharawy\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+C:\Users\Ahmed Sharawy\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+C:\Users\Ahmed Sharawy\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+C:\Users\Ahmed Sharawy\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe.config
+E:\Downloads\Compressed\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.exe
+E:\Downloads\Compressed\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.pdb
+E:\Downloads\Compressed\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe
+E:\Downloads\Compressed\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.pdb
+E:\Downloads\Compressed\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+E:\Downloads\Compressed\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+E:\Downloads\Compressed\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+E:\Downloads\Documents\3 CS\Algorithms Analysis and Design\Projects\[2] Sounds Packing\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csprojResolveAssemblyReference.cache
+C:\Users\Abanoub\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe.config
+C:\Users\Abanoub\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.exe
+C:\Users\Abanoub\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.pdb
+C:\Users\Abanoub\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+C:\Users\Abanoub\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+C:\Users\Abanoub\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+C:\Users\Abanoub\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe
+C:\Users\Abanoub\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.pdb
+C:\Users\Abanoub\Desktop\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csprojResolveAssemblyReference.cache
+D:\Faculty\year 3\Algorithms Analysis and Design\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe.config
+D:\Faculty\year 3\Algorithms Analysis and Design\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.exe
+D:\Faculty\year 3\Algorithms Analysis and Design\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.pdb
+D:\Faculty\year 3\Algorithms Analysis and Design\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe
+D:\Faculty\year 3\Algorithms Analysis and Design\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.pdb
+D:\Faculty\year 3\Algorithms Analysis and Design\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+D:\Faculty\year 3\Algorithms Analysis and Design\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+D:\Faculty\year 3\Algorithms Analysis and Design\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+D:\Faculty\year 3\Algorithms Analysis and Design\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csprojResolveAssemblyReference.cache
+C:\Users\Hussein Ata\Downloads\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe.config
+C:\Users\Hussein Ata\Downloads\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.exe
+C:\Users\Hussein Ata\Downloads\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.pdb
+C:\Users\Hussein Ata\Downloads\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe
+C:\Users\Hussein Ata\Downloads\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.pdb
+C:\Users\Hussein Ata\Downloads\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csprojResolveAssemblyReference.cache
+C:\Users\Hussein Ata\Downloads\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+C:\Users\Hussein Ata\Downloads\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+C:\Users\Hussein Ata\Downloads\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
+D:\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe.config
+D:\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.exe
+D:\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.pdb
+E:\Downloads\Compressed\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe.config
+E:\Downloads\Compressed\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.exe
+E:\Downloads\Compressed\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.pdb
+E:\Downloads\Compressed\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.exe
+E:\Downloads\Compressed\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\bin\Debug\sound packing.pdb
+E:\Downloads\Compressed\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Form1.resources
+E:\Downloads\Compressed\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound_packing.Properties.Resources.resources
+E:\Downloads\Compressed\Project\Sounds-Packing\Sounds Packing\sound packing\sound packing\obj\Debug\sound packing.csproj.GenerateResource.Cache
